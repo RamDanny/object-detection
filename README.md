@@ -8,4 +8,4 @@ SSD Mobilenet v2 FPNlite 320x320 model was chosen
 
 Model was trained on 4 classes for about 5000 steps.
 Model works on image and video input.
-Files were be mounted on Google Drive.
+Files were mounted on Google Drive.
